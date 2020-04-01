@@ -1,6 +1,6 @@
 # Site settings
-title: ZChen Blog
-SEOTitle: 泽钰的博客 | ZChen Blog
+title: ZenoChen Blog
+SEOTitle: ZenoChen Blog
 header-img: img/post-bg-desk.jpg
 email: zeno_chen@163.com
 description: "Knowing is not enough, we must apply. Willing is not enough, we must do."
@@ -12,7 +12,7 @@ github_repo: "" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Knowledge will give you power, but character respect."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
